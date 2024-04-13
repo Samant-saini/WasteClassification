@@ -1,7 +1,7 @@
 # WasteClassification
 
 
-# **Title: ♻️ Waste Management Guru: Deep Learning for Responsible Disposal **
+# Title: ♻️ Waste Management Guru: Deep Learning for Responsible Disposal 
 
 # Description:
 
