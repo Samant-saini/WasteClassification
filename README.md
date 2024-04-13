@@ -1,9 +1,9 @@
 # WasteClassification
 
 
-#**Title: ♻️ Waste Management Guru: Deep Learning for Responsible Disposal **
+# **Title: ♻️ Waste Management Guru: Deep Learning for Responsible Disposal **
 
-Description:
+# Description:
 
 Say goodbye to waste woes!  This project empowers you to make informed decisions about waste disposal using the power of deep learning and machine learning.   Simply upload a picture of your waste, and our intelligent system will:
 
